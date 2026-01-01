@@ -1,0 +1,7 @@
+{
+  "name": "TextTools Pro",
+  "description": "A comprehensive suite of text manipulation tools including fancy font generation, text repetition, and AI-powered enhancements.",
+  "requestFramePermissions": [
+    "clipboard-read"
+  ]
+}
